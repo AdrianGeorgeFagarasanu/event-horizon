@@ -1,3 +1,3 @@
 # event-horizon
 Black Hole Simulator
-![image](event-horizon-logo.png)
+![image](event-horizon-logo.png =x50)
